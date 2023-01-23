@@ -1,0 +1,15 @@
+{
+  "name": "ivuepress2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "js-tst <72301979+js-tst@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.60"
+  },
+
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
