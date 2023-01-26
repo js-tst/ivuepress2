@@ -863,47 +863,47 @@
   resolved "https://registry.npmmirror.com/@vue/shared/-/shared-3.2.45.tgz#a3fffa7489eafff38d984e23d0236e230c818bc2"
   integrity sha512-Ewzq5Yhimg7pSztDV+RH1UDKBzmtqieXQlpTVm2AwraoRL/Rks96mvd8Vgi7Lj+h+TH8dv7mXD3FRZR3TUvbSg==
 
-"@vuepress-reco/shared@2.0.0-beta.46":
-  version "2.0.0-beta.46"
-  resolved "https://registry.npmmirror.com/@vuepress-reco/shared/-/shared-2.0.0-beta.46.tgz#98a60aabb942198904b5c9682a84b4b84e7ddd63"
-  integrity sha512-KZe4sETUyNpJsFXm+4nH+VnOFN8fExpJ22v/Wlj6RotonpkPp/z398SLoLMzdkX/os5A1OT5s4aw0KobFDBI3g==
+"@vuepress-reco/shared@2.0.0-beta.48":
+  version "2.0.0-beta.48"
+  resolved "https://registry.npmmirror.com/@vuepress-reco/shared/-/shared-2.0.0-beta.48.tgz#cbc0f8d94ceaeef4d1073c2a769eaaabc4f43331"
+  integrity sha512-XA4kzplef7XUcIVx9KBc2iVmS4E+3R6mb7q93ePGQE4Seyk9fHTwipUeJaoq13XGV6W3w7bD/BE8dYM06pnaOw==
   dependencies:
     "@vuepress/core" "2.0.0-beta.60"
     vue "^3.2.45"
 
-"@vuepress-reco/tailwindcss-config@2.0.0-beta.46":
-  version "2.0.0-beta.46"
-  resolved "https://registry.npmmirror.com/@vuepress-reco/tailwindcss-config/-/tailwindcss-config-2.0.0-beta.46.tgz#912db7102eae4feb9ec02ae0064b684151d4f014"
-  integrity sha512-2r5sTxzkHTniSVwDBYLGyHiK5HgYRQuOJ18xRiWXWfgZcH6XpF4/thDVMNuWiYwuRxctvY4cPHQxHihxE2UrLA==
+"@vuepress-reco/tailwindcss-config@2.0.0-beta.48":
+  version "2.0.0-beta.48"
+  resolved "https://registry.npmmirror.com/@vuepress-reco/tailwindcss-config/-/tailwindcss-config-2.0.0-beta.48.tgz#6d2633667acfebba7d7019e892b3cc5919947147"
+  integrity sha512-dC9T8xa3/nQx2Jfm9unwfHCToZ9ihCm42k53x88CHdA7cw5XEAzBLizw88K61vg2GWDdkffMRTHX80CRmYDpvA==
 
-"@vuepress-reco/vuepress-plugin-bulletin-popover@2.0.0-beta.46":
-  version "2.0.0-beta.46"
-  resolved "https://registry.npmmirror.com/@vuepress-reco/vuepress-plugin-bulletin-popover/-/vuepress-plugin-bulletin-popover-2.0.0-beta.46.tgz#ceed85eea8262b9cf4db919b5eebb6dad786103f"
-  integrity sha512-7jfJLREVqMx+aRoLKDW7ISeLwXAwI/ucyAqnqhZdXPUsME9q/ig/qYSf4vzWRE/4RnKL9Cvdxiol1zF7TPHisw==
+"@vuepress-reco/vuepress-plugin-bulletin-popover@2.0.0-beta.48":
+  version "2.0.0-beta.48"
+  resolved "https://registry.npmmirror.com/@vuepress-reco/vuepress-plugin-bulletin-popover/-/vuepress-plugin-bulletin-popover-2.0.0-beta.48.tgz#a38320b4ba0f1487c05d7c3769cffac8c78cbde9"
+  integrity sha512-E4RVmTx0W0t8AuFxQrov6/ANYnghcjlNfQnG1ZQSJwAGSXRAoWYxy2ie/doC9PM+YEnAGu/bcrVtdKTEtl+MqQ==
   dependencies:
-    "@vuepress-reco/tailwindcss-config" "2.0.0-beta.46"
+    "@vuepress-reco/tailwindcss-config" "2.0.0-beta.48"
     "@vuepress/client" "2.0.0-beta.60"
     "@vuepress/core" "2.0.0-beta.60"
     "@vuepress/plugin-theme-data" "2.0.0-beta.60"
     "@vuepress/utils" "2.0.0-beta.60"
     vue "^3.2.45"
 
-"@vuepress-reco/vuepress-plugin-code-copy@2.0.0-beta.46":
-  version "2.0.0-beta.46"
-  resolved "https://registry.npmmirror.com/@vuepress-reco/vuepress-plugin-code-copy/-/vuepress-plugin-code-copy-2.0.0-beta.46.tgz#61872d30cd98e06d990359239f98a08f6629b309"
-  integrity sha512-NjRHjVis9+NWKVwLuh5VtSRsuzZRrkB8USUqPT/sORmesEvRMu1LRsk9Ex8egj77myYH4UWYwUiKm28bXYzX2w==
+"@vuepress-reco/vuepress-plugin-code-copy@2.0.0-beta.48":
+  version "2.0.0-beta.48"
+  resolved "https://registry.npmmirror.com/@vuepress-reco/vuepress-plugin-code-copy/-/vuepress-plugin-code-copy-2.0.0-beta.48.tgz#6df4cf748cbd39e9d71fd4cbcc019574cbf4ddd3"
+  integrity sha512-Xj4UZXvbO+w/HUWUk6nq5d4gTWQ+rOs7Ni+tHVh5beIyMluU5YB9+ldLqGpgiqhPURZI5cYOMjhKJzu8+cRp/Q==
   dependencies:
     "@vuepress/client" "2.0.0-beta.60"
     "@vuepress/core" "2.0.0-beta.60"
     "@vuepress/utils" "2.0.0-beta.60"
     vue-router "^4.1.5"
 
-"@vuepress-reco/vuepress-plugin-comments@2.0.0-beta.46":
-  version "2.0.0-beta.46"
-  resolved "https://registry.npmmirror.com/@vuepress-reco/vuepress-plugin-comments/-/vuepress-plugin-comments-2.0.0-beta.46.tgz#9e09422a39a0a38e4df2da666c4155114c340503"
-  integrity sha512-Rl0BKoq+4C4gyYrs9z3wsqR9XqI5qYwpnprBYJdUQEdNKjV6eLqit01lzydJUgzKo1BHsWP02Kd2GhgrB0w33Q==
+"@vuepress-reco/vuepress-plugin-comments@2.0.0-beta.48":
+  version "2.0.0-beta.48"
+  resolved "https://registry.npmmirror.com/@vuepress-reco/vuepress-plugin-comments/-/vuepress-plugin-comments-2.0.0-beta.48.tgz#a8e66cb9af115817604a06578597fe5e2056860f"
+  integrity sha512-6ZjcPhlKnDwl7q7fnyrruv09hXZb+hKDM/BVomlhFcASRLe7ZbMIpCZRSGCS1HXIxga/cNLryFz/3Q/ZO3tyag==
   dependencies:
-    "@vuepress-reco/tailwindcss-config" "2.0.0-beta.46"
+    "@vuepress-reco/tailwindcss-config" "2.0.0-beta.48"
     "@vuepress/client" "2.0.0-beta.60"
     "@vuepress/core" "2.0.0-beta.60"
     "@vuepress/plugin-theme-data" "2.0.0-beta.60"
@@ -913,22 +913,22 @@
     vue "^3.2.45"
     vue-router "^4.1.5"
 
-"@vuepress-reco/vuepress-plugin-page@2.0.0-beta.46":
-  version "2.0.0-beta.46"
-  resolved "https://registry.npmmirror.com/@vuepress-reco/vuepress-plugin-page/-/vuepress-plugin-page-2.0.0-beta.46.tgz#0ecea363397cf2bbe80758a8c798b33c4c834cae"
-  integrity sha512-yCa/DkNz3UXFtqLiZ4x90pMpPZS4hRo5LzQfpw7uVBIXHj5PvgZ1PjcZteJuNCe4qS1SqhjAmk9wcxn4hZzpsQ==
+"@vuepress-reco/vuepress-plugin-page@2.0.0-beta.48":
+  version "2.0.0-beta.48"
+  resolved "https://registry.npmmirror.com/@vuepress-reco/vuepress-plugin-page/-/vuepress-plugin-page-2.0.0-beta.48.tgz#bf49cd5818776bc23016f49c6bf7ce32a26d12b9"
+  integrity sha512-bQyQa8KR1bUU4wEtesnGibRJlBr0D24eU+vgqwFx8qAqKEtIPkHb5gIq4F4RFDf8sV4p8SJrOX4bXyJVJB1WWQ==
   dependencies:
-    "@vuepress-reco/shared" "2.0.0-beta.46"
+    "@vuepress-reco/shared" "2.0.0-beta.48"
     "@vuepress/client" "2.0.0-beta.60"
     "@vuepress/core" "2.0.0-beta.60"
     "@vuepress/utils" "2.0.0-beta.60"
     vue "^3.2.45"
     vue-router "^4.1.5"
 
-"@vuepress-reco/vuepress-plugin-vue-preview@2.0.0-beta.46":
-  version "2.0.0-beta.46"
-  resolved "https://registry.npmmirror.com/@vuepress-reco/vuepress-plugin-vue-preview/-/vuepress-plugin-vue-preview-2.0.0-beta.46.tgz#b6347a3d02c6259d01a1134d54793118f245b7c1"
-  integrity sha512-L873W3vVHoopU600NQTFvoWRg1GYs04wwqBuAqgGNjGs04V7qR9HfkakAl55buxQ5qRzcWRH1UsNy002YwdtJQ==
+"@vuepress-reco/vuepress-plugin-vue-preview@2.0.0-beta.48":
+  version "2.0.0-beta.48"
+  resolved "https://registry.npmmirror.com/@vuepress-reco/vuepress-plugin-vue-preview/-/vuepress-plugin-vue-preview-2.0.0-beta.48.tgz#59d4d021d450d2432bae7727c8072fc875071456"
+  integrity sha512-aTkFQJDrZ3mfKIf4CfsIljvBnYeHErrSmX9whRVrIrULJD0TPLtwC5exF02ZW05rCNmc7WmnWWHK6t2C/kqKqg==
   dependencies:
     "@babel/core" "^7.16.12"
     "@babel/plugin-syntax-jsx" "^7.16.7"
@@ -4787,19 +4787,19 @@ vue@^3.2.45:
     "@vue/server-renderer" "3.2.45"
     "@vue/shared" "3.2.45"
 
-vuepress-theme-reco@^2.0.0-beta.46:
-  version "2.0.0-beta.46"
-  resolved "https://registry.npmmirror.com/vuepress-theme-reco/-/vuepress-theme-reco-2.0.0-beta.46.tgz#20357ff0e0b920492afc12a5db1fda675b5ec2b7"
-  integrity sha512-tpIOW7/R2VdjpIMsSWpAjewq/dJu+L4LL6ZDldUKFj/QeAAYM3ONh3e3f/OfasKuxjtwOhSR71pNXYmc46o2Cw==
+vuepress-theme-reco@^2.0.0-beta.48:
+  version "2.0.0-beta.48"
+  resolved "https://registry.npmmirror.com/vuepress-theme-reco/-/vuepress-theme-reco-2.0.0-beta.48.tgz#582b6cdf2d8deb3a45f9717267121a84bd1fb9b5"
+  integrity sha512-krWrU/SV23zEjDAWegv/cBQRlLxxaKxJLYlpAp5uZkgqjls+DLp7mYjcLYlSzgj/dplq2BzSTloSZ7GWKORJhg==
   dependencies:
     "@vicons/carbon" "^0.12.0"
-    "@vuepress-reco/shared" "2.0.0-beta.46"
-    "@vuepress-reco/tailwindcss-config" "2.0.0-beta.46"
-    "@vuepress-reco/vuepress-plugin-bulletin-popover" "2.0.0-beta.46"
-    "@vuepress-reco/vuepress-plugin-code-copy" "2.0.0-beta.46"
-    "@vuepress-reco/vuepress-plugin-comments" "2.0.0-beta.46"
-    "@vuepress-reco/vuepress-plugin-page" "2.0.0-beta.46"
-    "@vuepress-reco/vuepress-plugin-vue-preview" "2.0.0-beta.46"
+    "@vuepress-reco/shared" "2.0.0-beta.48"
+    "@vuepress-reco/tailwindcss-config" "2.0.0-beta.48"
+    "@vuepress-reco/vuepress-plugin-bulletin-popover" "2.0.0-beta.48"
+    "@vuepress-reco/vuepress-plugin-code-copy" "2.0.0-beta.48"
+    "@vuepress-reco/vuepress-plugin-comments" "2.0.0-beta.48"
+    "@vuepress-reco/vuepress-plugin-page" "2.0.0-beta.48"
+    "@vuepress-reco/vuepress-plugin-vue-preview" "2.0.0-beta.48"
     "@vuepress/bundler-vite" "2.0.0-beta.60"
     "@vuepress/bundler-webpack" "2.0.0-beta.60"
     "@vuepress/client" "2.0.0-beta.60"
