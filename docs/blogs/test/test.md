@@ -24,15 +24,6 @@ categories:
 TOUHOU EUROBEAT!!!!
 :::
 
-# <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1916400906&auto=1&height=66"></iframe>
-
-<iframe
-src="./t1.mp4"
-scrolling="no"
-border="0"
-frameborder="no"
-framespacing="0"
-allowfullscreen="true"
-height=600
-width=800>
-</iframe>
+<video src="/video/t1.mp4" playsinline autoplay="false" autostart="false" controls></video>
+<br />
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1916400906&auto=0&height=66"></iframe>
