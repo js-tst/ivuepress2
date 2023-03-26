@@ -20,7 +20,9 @@ export default defineUserConfig({
         // URL
         //logo: 'https://vuejs.org/images/logo.png',
 
-        autoSetBlogCategories: true,
+        // 自动设置分类
+        autoSetBlogCategories: false,
+        // 自动将分类和标签添加至头部导航条
         autoAddCategoryToNavbar: true,
 
         author: '碱式碳酸铜',
